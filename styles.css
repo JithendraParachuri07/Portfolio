@@ -88,12 +88,12 @@ body {
 
 .profile img  {
     display: block;
-    width: 100px;
-    height: 100px;
+    width: 70%;
+    height: 80%;
     margin: 0 auto; 
-    object-fit: cover;
-    border-radius: 350px;
+    border-radius: 50%;
     padding-bottom: 50px;
+    object-fit: cover;
 }
 
 .profile h1  {
