@@ -87,10 +87,11 @@ body {
 }
 
 .profile img  {
-    display: flex;
+    display: block;
     width: 100px;
     height: 100px;
     margin: 0 auto; 
+    object-fit: cover;
     border-radius: 350px;
     padding-bottom: 50px;
 }
